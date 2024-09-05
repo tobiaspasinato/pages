@@ -1,0 +1,27 @@
+*{
+    font-family:monospace;
+}
+
+body{
+    background-color: black;
+    color: gray;
+    background-image: url("https://images.unsplash.com/photo-1692317785860-2ec5796434f2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvbmRvJTIwZGUlMjBwYW50YWxsYSUyMGRlJTIwbm9jaGV8ZW58MHx8MHx8fDA%3D");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+button{
+    background-color: transparent;
+    color: gray;
+    padding: 5px 10px;
+    margin: 4px 4px;
+    border-radius: 10px;
+}
+header{
+    padding: 5px 10px;
+    margin: 4px 4px;
+}
+a{
+    font-style: oblique;
+    color: gray;
+}
