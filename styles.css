@@ -1,3 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background: linear-gradient(150deg, red, orange);
+    height: 100vh;
+}
+
+.Form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: white;
+    border-radius: 10px;
+}
+
+.Form h1{
+    text-align: center;
+}
+
+/*
 *{
     font-family:monospace;
 }
@@ -25,3 +48,4 @@ a{
     font-style: oblique;
     color: gray;
 }
+*/
