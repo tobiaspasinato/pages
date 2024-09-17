@@ -1,0 +1,47 @@
+*{
+    font-family:monospace;
+}
+
+html{
+    background-color: #4b2d75;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 100%;
+    height: 100vh;
+}
+
+.inicioSesion{
+    grid-column: 2/2;
+    grid-row: 1;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: linear-gradient(150deg, #4b2d75, purple);
+    border-radius: 10px;
+    
+    text-align: center;
+}
+
+.inicioSesion h2{
+    text-align: center;
+}
+
+.username{
+    text-align: center;
+}
+
+.contra{
+    text-align: center;
+}
+
+#btnInicio{
+    background-color: transparent;
+    padding: 5px 10px;
+    margin: 4px 4px;
+    border-radius: 10px;
+}

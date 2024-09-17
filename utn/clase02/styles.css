@@ -1,0 +1,16 @@
+p {
+    font-style: unset;
+}
+
+h1 {
+    font-style: italic;
+}
+
+body{
+    background-image: url("https://areajugones.sport.es/wp-content/uploads/2018/05/DarkSouls.jpg");
+    color: white;
+}
+
+nav {
+    color: white;
+}
