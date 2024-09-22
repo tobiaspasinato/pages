@@ -4,7 +4,7 @@ body{
     font-family: monospace;
     background: linear-gradient(150deg, red, orange);
     height: 100vh;
-}
+} 
 
 .Form{
     position: absolute;
